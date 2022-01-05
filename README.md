@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=깃허브%20헤더&fontSize=90&animation=fadeIn&fontAlignY=38&desc=헤더를%20꾸며보자%20~&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ddeeff,100:ffddee&height=300&section=header&text=👊%20GERONIMO%20👊&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20yoojin's%20sweethome&descAlignY=51&descAlign=62)

@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffafd8,100:a6c1ee&height=300&section=header&text=GERONIMO%20:&#41;&fontSize=80&fontColor=ffffff&fontAlignY=33&desc=Welcome%20to%20yoojin's%20sweet%20home&descAlignY=51&descAlign=62)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffafd8,100:a6c1ee&height=300&section=header&text=GERONIMO%20:&#41;&fontSize=80&fontColor=ffffff&fontAlignY=33&desc=Welcome%20to%20yoojin's%20sweet%20home&descAlignY=51&descAlign=62) -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&size=50&duration=2000&color=9027F7&vCenter=true&multiline=true&width=900&height=300&lines=Hi+There%F0%9F%91%8B;Welcome+to+yoojin's+sweet+home:&#41;;Let's+do+it!+GERONIMO!)](https://git.io/typing-svg)
 
 #### :loudspeaker: Languages　　　　　　　　　　　　　　　　　　　　　:black_nib: Tools
 <p>
